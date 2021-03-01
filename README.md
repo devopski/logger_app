@@ -1,6 +1,6 @@
 # logger_app
 
-Java Spring Boot logger app. 
+Java Spring Boot logger app for demo purpose. 
 Generates log messages every 30s  
 
 ```
